@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://github.com/luizpaulogroup/html-css-js-netflix-little-project/blob/main/image.png?raw=true" style="max-width:100%;"> (https://youtu.be/43P-4A-sbfE)
+   https://youtu.be/43P-4A-sbfE
 </h1>
 
 ## :rocket: Technologies
